@@ -9,6 +9,8 @@
   "/p__Main__command.js": "/p__Main__command.async.js",
   "/p__Main__detail.css": "/p__Main__detail.chunk.css",
   "/p__Main__detail.js": "/p__Main__detail.async.js",
+  "/p__Main__detail_table.css": "/p__Main__detail_table.chunk.css",
+  "/p__Main__detail_table.js": "/p__Main__detail_table.async.js",
   "/p__Main__main.css": "/p__Main__main.chunk.css",
   "/p__Main__main.js": "/p__Main__main.async.js",
   "/p__Main__personal.css": "/p__Main__personal.chunk.css",
